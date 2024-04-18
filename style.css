@@ -1,0 +1,19 @@
+.name{
+    font-size: 1rem;
+    font-style:italic;
+    color: rgb(143, 143, 143);
+    
+}
+.homepage{
+    background-image: url(/images/hoop.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    padding-bottom: 400px;
+}
+.uriwelcome{
+    color: white;
+}
+.mystory{
+    color: white;
+}
