@@ -13,7 +13,18 @@
 }
 .uriwelcome{
     color: white;
+
 }
 .mystory{
     color: white;
+}
+.list{
+    color: white;
+}
+
+.border{
+    border: ;
+}
+::-webkit-scrollbar { 
+    display:none; 
 }
